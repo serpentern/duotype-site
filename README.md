@@ -1,6 +1,6 @@
-# DuoType public website
+# DuoKeyFit public website
 
-DuoTypeの紹介・サポート・プライバシーポリシーを公開する静的サイトです。
+DuoKeyFitの紹介・サポート・プライバシーポリシーを公開する静的サイトです。
 
 - 紹介: https://serpentern.github.io/duotype-site/
 - サポート: https://serpentern.github.io/duotype-site/#support
